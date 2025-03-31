@@ -1,5 +1,6 @@
 
 attack_roll_bonus = 9
+attack_flat_damage = 8
 current_max_level = 5
 attacks_dict = {
     'Attack': {
